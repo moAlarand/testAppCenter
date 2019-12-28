@@ -32,7 +32,7 @@ const App = () => {
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
-            <Text>welvoem </Text>
+            <Text>app center </Text>
         </ScrollView>
       </SafeAreaView>
     </>
